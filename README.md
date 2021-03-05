@@ -3,6 +3,7 @@ Its an app about COVID-19, you can browse news, view statistics.
 the app has a feature that seniors in need are able to contact volunteerss to help them.
 
 First prototype:
+
 ![2](https://user-images.githubusercontent.com/57541107/110084985-85b50c00-7dcb-11eb-8caf-3cd914984f4d.PNG)
 
 Second prototype:
