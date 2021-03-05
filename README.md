@@ -10,3 +10,12 @@ Second prototype:
 ![1](https://user-images.githubusercontent.com/57541107/110084974-82218500-7dcb-11eb-8099-cbc66217bc68.PNG)
 
 To see the design:https://www.figma.com/file/tdbEv2s44WmjhSzgDto8c8/Assignment2?node-id=0%3A1
+
+
+
+Desirable functionlities:
+1. Guidence of how to prevent virus
+2. a function which allows volunteers to help seniors
+3. Real-time communication with doctor
+4. a map for hospitals where can test COVID
+5. more precise heatmap of cases around neighborhood
