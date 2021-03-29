@@ -14,7 +14,7 @@ To see the design:https://www.figma.com/file/tdbEv2s44WmjhSzgDto8c8/Assignment2?
 Final prototype:
 
 <img width="447" alt="Screen Shot 2021-03-30 at 1 46 56 AM" src="https://user-images.githubusercontent.com/57541107/112878270-4a6fd980-90fa-11eb-9498-35a9e52695d7.png">
-
+Figma file: https://www.figma.com/file/VNGDMIbc5YbCgKZ3MeujHc/Assignment3?node-id=0%3A1
 
 Desirable functionlities:
 1. Guidence of how to prevent virus
