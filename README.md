@@ -11,6 +11,9 @@ Second prototype:
 
 To see the design:https://www.figma.com/file/tdbEv2s44WmjhSzgDto8c8/Assignment2?node-id=0%3A1
 
+Final prototype:
+
+<img width="447" alt="Screen Shot 2021-03-30 at 1 46 56 AM" src="https://user-images.githubusercontent.com/57541107/112878270-4a6fd980-90fa-11eb-9498-35a9e52695d7.png">
 
 
 Desirable functionlities:
